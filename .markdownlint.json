@@ -1,0 +1,14 @@
+{
+  "MD033": {
+    "allowed_elements": [
+      "p",
+      "a",
+      "img"
+    ]
+  },
+  "line-length": {
+    "strict": true,
+    "line_length": 160,
+    "code_blocks": false
+  }
+}
